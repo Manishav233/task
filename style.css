@@ -1,0 +1,16 @@
+.Picture{
+    background-color:grey;
+    padding:40px;
+    width:17rem;
+    font-family: 'Homemade Apple', cursive;
+  font-family: 'Marck Script', cursive;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    
+  }
+  .details{
+    background-color:white;
+    padding:6px;
+    border-radius: 10%;
+    overflow: hidden;
+  }
